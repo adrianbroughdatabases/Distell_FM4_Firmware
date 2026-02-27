@@ -1,0 +1,8 @@
+#
+#Wed Jun 08 14:46:08 BST 2011
+default.languagetoolchain.dir=C\:\\Program Files\\HI-TECH Software\\PICC\\9.81\\bin
+com-microchip-mplab-nbide-embedded-makeproject-MakeProject.md5=0099b2dba96809460085a54154a49567
+default.languagetoolchain.version=9.81
+host.platform=windows
+conf.ids=default
+default.com-microchip-mplab-nbide-toolchainhitech-HitechPICCLanguageToolchain.md5=1c69383847d3db35504af1369c1655ce
