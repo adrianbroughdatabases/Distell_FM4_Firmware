@@ -299,7 +299,7 @@ void setTime() {
     data.hours = inputNumber(data.hours, 0, 23, "Hours = ");
     data.date = inputNumber(data.date, 1, 31, "Day = ");
     data.month = inputNumber(data.month, 1, 12, "Month = ");
-    data.year = inputNumber(data.year, 11, 25, "Year = 20");
+    data.year = inputNumber(data.year, 25, 45, "Year = 20");
     setRTCData(&data);
 }
 

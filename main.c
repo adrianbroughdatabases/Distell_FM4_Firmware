@@ -150,7 +150,7 @@ void main() {
     if (getButtonState() == BUTTON_NONE)
         ++launchADMode;
 
-    lcdPad("v3.06", LCD_CLEAR);
+    lcdPad("v3.07", LCD_CLEAR);
     lcdPad(info.serialNumber, LCD_LINE2);
     pause(2000);
 
