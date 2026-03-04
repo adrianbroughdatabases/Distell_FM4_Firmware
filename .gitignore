@@ -32,3 +32,4 @@ nbproject/Makefile-local-*.mk
 # Backup files
 *.bak
 *~
+/nbproject/.svn

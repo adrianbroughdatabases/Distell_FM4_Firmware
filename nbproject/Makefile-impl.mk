@@ -24,7 +24,7 @@ CLEAN_SUBPROJECTS=${CLEAN_SUBPROJECTS_${SUBPROJECTS}}
 
 
 # Project Name
-PROJECTNAME=FM4_Firmware_v3_06
+PROJECTNAME=Distell_FM4_Firmware
 
 # Active Configuration
 DEFAULTCONF=default
